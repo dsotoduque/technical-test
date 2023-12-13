@@ -1,7 +1,7 @@
 # Appsocado Coding Assessment.
 
 ## Desafío: Lista de Tareas (To-Do List)
->> El objetivo es crear una aplicación de lista de tareas (To-Do List) utilizando Flutter. La aplicación debe tener las siguientes funcionalidades:
+El objetivo es crear una aplicación de lista de tareas (To-Do List) utilizando Flutter. La aplicación debe tener las siguientes funcionalidades:
 
 __Agregar Tareas:__ Los usuarios deben poder agregar nuevas tareas a la lista.
 
