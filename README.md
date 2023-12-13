@@ -20,7 +20,15 @@ Puedes diseñar la interfaz de usuario según tus preferencias. Utiliza widgets 
 
 ## Instrucciones.
 >> Puedes desarrollar este challenge utilizando React Native o Flutter (Se valorara especialmente el uso de Flutter)
+
+
 >> Crea una rama your-name/frameworkSelected-appsocado-test
+
+
 >> Crea un archivo .md con las instrucciones de despliegue.
+
+
 >> En el archivo .md se debe justificar el enfoque y arquitectura que utilizaste.
+
+
 >> Aunque no es requerido, se valorara la cobertura de pruebas que consideres necesarias agregar (Unitarias, integracion, etc).
